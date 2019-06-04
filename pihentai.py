@@ -19,7 +19,7 @@ hentais = [s[i:i+6] for i in range(ind, len(s), 6)]
 
 for hentai in hentais:
     hentai = int(hentai)
-    time.sleep(0.4)
+    time.sleep(0.6)
     try:
         r = requests.get("https://nhentai.net/g/%s/" % hentai)
         if r.status_code is not 200:
