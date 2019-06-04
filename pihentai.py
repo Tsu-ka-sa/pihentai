@@ -10,6 +10,7 @@ ind = random.randint(random.randint(0,2000), 6000) # random index
 hentais = [s[i:i+6] for i in range(ind, len(s), 6)]
 
 for hentai in hentais:
+    hentai = int(hentai)
     time.sleep(0.5)
     try:
         r = requests.head("https://nhentai.net/g/%s/" % hentai)
