@@ -1,4 +1,5 @@
 # PiHentai
+**WARNING! IF YOU USE IT TOO MUCH YOU CAN GET BANNED ON NHENTAI**  
 ![Imgur](https://i.imgur.com/fZsN4ko.gif)
 
 ## Requirements
