@@ -5,5 +5,10 @@ ensure you have Python3 and pip
 run `python3 ./setup.py install` to install all dependencies  
 if that doesn't work just run `pip3 install mpmath`  
 
-## Enjoy!
-Usage: `python3 ./pihentai.py`
+## Normal mode
+To print existing nhentai links based on PI:  
+`python3 ./pihentai.py`
+
+## Tagged mode
+To print links based on tags you provide:  
+`python3 ./pihentai.py -t <tag> <tag> ...`
