@@ -1,4 +1,5 @@
 # PiHentai
+![Imgur](https://i.imgur.com/fZsN4ko.gif)
 
 ## Requirements
 ensure you have Python3 and pip  
